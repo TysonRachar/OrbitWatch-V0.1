@@ -1,0 +1,64 @@
+{
+"satellites": [
+{
+"name": "ISS (Zarya)",
+"altitude_km": 408,
+"velocity_kmh": 27600,
+"country": "International"
+},
+{
+"name": "Hubble Space Telescope",
+"altitude_km": 547,
+"velocity_kmh": 28000,
+"country": "USA"
+},
+{
+"name": "NOAA-15",
+"altitude_km": 807,
+"velocity_kmh": 26500,
+"country": "USA"
+},
+{
+"name": "Terra (EOS AM-1)",
+"altitude_km": 705,
+"velocity_kmh": 27000,
+"country": "USA"
+},
+{
+"name": "GPS IIF-10",
+"altitude_km": 20180,
+"velocity_kmh": 14000,
+"country": "USA"
+},
+{
+"name": "Galileo 5",
+"altitude_km": 23222,
+"velocity_kmh": 14000,
+"country": "EU"
+},
+{
+"name": "Starlink-30000",
+"altitude_km": 550,
+"velocity_kmh": 27000,
+"country": "USA"
+},
+{
+"name": "OneWeb-0213",
+"altitude_km": 1200,
+"velocity_kmh": 26000,
+"country": "UK"
+},
+{
+"name": "SES-1",
+"altitude_km": 35786,
+"velocity_kmh": 11000,
+"country": "Luxembourg"
+},
+{
+"name": "INSAT-3D",
+"altitude_km": 35786,
+"velocity_kmh": 11000,
+"country": "India"
+}
+]
+}
